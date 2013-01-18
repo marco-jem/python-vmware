@@ -37,4 +37,5 @@ nosetests.xml
 # Ignore Python virtual environment
 python/**/*
 
+# Ignore Suds cache directory
 .cache/**/*
